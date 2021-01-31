@@ -5,11 +5,11 @@
 ---
 
 ### 一、 学习计划
--[ ] Spring基本知识
-    -[X] IoC && AOP
+- [ ] Spring基本知识
+    - [X] IoC && AOP
         - 文档：[理解Spring IoC与AOP](https://blog.csdn.net/weixin_43735270/article/details/112914299)
-    -[ ] Spring常用注解
--[ ] Spring Boot
--[ ] Spring Cloud 
--[ ] Spring Data JPA
+    - [ ] Spring常用注解
+- [ ] Spring Boot
+- [ ] Spring Cloud 
+- [ ] Spring Data JPA
 
